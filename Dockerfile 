@@ -2,3 +2,4 @@ FROM: image
 Run
 ADD
 ADD
+RUN
